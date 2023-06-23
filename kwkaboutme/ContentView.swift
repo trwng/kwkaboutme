@@ -19,7 +19,7 @@ struct ContentView: View {
             
             Text("Hello! I'm Tara Wang. My favorite color is blue and click the button below to reveal a few facts more about me")
             
-            Button("Learn more facts!") { textTitle = ("I like cats and hamsters!! I'm chinese and I like rice!! ")
+            Button("Learn more facts!") { textTitle = ("I like cats and hamsters!! I'm chinese and I like rice!!! ")
         
                 
             }
